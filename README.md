@@ -2,4 +2,4 @@
 
 This is a really awesome website
 
-update made on main on github before rebase.
+made changes in develop which is about to become a main branch.
